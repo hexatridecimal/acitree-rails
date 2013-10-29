@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    acitree-rails (0.0.1)
+    acitree-rails (3.7.0)
       jquery-rails
       rails (~> 3.2.15)
 

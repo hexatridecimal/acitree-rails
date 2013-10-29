@@ -4,3 +4,4 @@
 //= require 'jquery.aciTree.utils'
 //= require 'jquery.aciTree.selectable'
 //= require 'jquery.aciTree.sortable'
+//= require 'jquery.aciTree.editable'
