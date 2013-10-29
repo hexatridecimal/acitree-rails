@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Acitree::VERSION
   s.authors     = ["Jonathan Jeffus"]
   s.email       = ["jjeffus@gmail.com"]
-  s.homepage    = "https://github.com/jjeffus/acitree"
+  s.homepage    = "https://github.com/jjeffus/acitree-rails"
   s.summary     = "Dragos Ursu's excellent JQuery based treeview control, now available as a Rails engine!"
   s.description = "Acitree is an excellent JQuery based treeview control. See http://plugins.jquery.com/aciTree/"
 

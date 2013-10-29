@@ -1,3 +1,3 @@
 module Acitree
-  VERSION = "0.0.1"
+  VERSION = "3.7.0"
 end
